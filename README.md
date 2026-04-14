@@ -7,7 +7,7 @@
 
 ## 👥 Team Members
 
-| Name | Registration No. |
+| Name |
 |------|-----------------|
 | Yuval Gupta |
 | Srijita Bhattacharjee |
