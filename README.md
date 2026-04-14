@@ -9,9 +9,9 @@
 
 | Name | Registration No. |
 |------|-----------------|
-| Yuval Gupta | 23BEC0011 |
-| Srijita Bhattacharjee | 23BEC0120 |
-| Ananya Deo | 23BEC0185 |
+| Yuval Gupta |
+| Srijita Bhattacharjee |
+| Ananya Deo |
 
 ---
 
