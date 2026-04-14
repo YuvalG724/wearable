@@ -7,11 +7,9 @@
 
 ## 👥 Team Members
 
-| Name |
-| Yuval Gupta |
-| Srijita Bhattacharjee |
-| Ananya Deo |
-
+Yuval Gupta, 
+Srijita Bhattacharjee, 
+Ananya Deo
 ---
 
 ## 📖 Overview
